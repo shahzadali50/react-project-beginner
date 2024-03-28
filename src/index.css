@@ -1,0 +1,15 @@
+
+header ul li a{
+  color: brown;
+  font-size: 24px !important;
+  margin-bottom: 10px;
+}
+ul li a.active_class{
+  color: rgb(0, 0, 0) !important;
+  text-decoration: underline;
+  font-size: 22px;
+}
+/* header ul li a:active{
+  color: rgb(0, 0, 0);
+   
+} */
